@@ -1,4 +1,4 @@
 # Assignment---01
 My assignment 
 Live Preview
-http://127.0.0.1:5500/index.html#
+https://khairul5500.github.io/Assignment---01/
